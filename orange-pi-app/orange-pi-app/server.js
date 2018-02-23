@@ -35,23 +35,3 @@ app.get('/configure', (request, response) => {
 
 
 app.listen(port);
-
-
-//const app = express();
-//var port = process.env.PORT || 1337;
-
-//app.get('/', (request, response) => {
-//    response.send('Hello from Orange Pi!')
-//});
-
-//app.get('/configure', (request, response) => {
-//    response.send('Hello from Express!')
-//});
-
-//app.listen(port);
-
-
-//http.createServer(function (req, res) {
-//    res.writeHead(200, { 'Content-Type': 'text/plain' });
-//    res.end('Hello World\n');
-//}).listen(port);
