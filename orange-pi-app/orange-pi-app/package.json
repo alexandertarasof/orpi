@@ -1,0 +1,13 @@
+{
+  "name": "orange-pi-app",
+  "version": "0.0.0",
+  "description": "orange-pi-app",
+  "main": "server.js",
+  "author": {
+    "name": "tarasov.a"
+  },
+  "dependencies": {
+    "express": "^4.16.2",
+    "mic": "^2.1.2"
+  }
+}
